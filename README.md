@@ -1,1 +1,0 @@
-# sanity-exercise-test-1
